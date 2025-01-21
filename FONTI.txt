@@ -1,0 +1,7 @@
+questi sono i link da cui ho scaricato le fonti per realizzare il mio progetto.
+
+https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023
+
+https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy
+
+https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world
