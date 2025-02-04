@@ -1,0 +1,33 @@
+Dataset Glossary (Column-wise)
+01. Country/Territory - Name of the Country/Territory
+02. Code - Country/Territory Code
+03. Year - Year of the Incident
+04. Meningitis - No. of People died from Meningitis
+05. Alzheimer's Disease and Other Dementias - No. of People died from Alzheimer's Disease and Other Dementias
+06. Parkinson's Disease - No. of People died from Parkinson's Disease
+07. Nutritional Deficiencies - No. of People died from Nutritional Deficiencies
+08. Malaria - No. of People died from Malaria
+09. Drowning - No. of People died from Drowning
+10. Interpersonal Violence - No. of People died from Interpersonal Violence
+11. Maternal Disorders - No. of People died from Maternal Disorders
+12. Drug Use Disorders - No. of People died from Drug Use Disorders
+13. Tuberculosis - No. of People died from Tuberculosis
+14. Cardiovascular Diseases - No. of People died from Cardiovascular Diseases
+15. Lower Respiratory Infections - No. of People died from Lower Respiratory Infections
+16. Neonatal Disorders - No. of People died from Neonatal Disorders
+17. Alcohol Use Disorders - No. of People died from Alcohol Use Disorders
+18. Self-harm - No. of People died from Self-harm
+19. Exposure to Forces of Nature - No. of People died from Exposure to Forces of Nature
+20. Diarrheal Diseases - No. of People died from Diarrheal Diseases
+21. Environmental Heat and Cold Exposure - No. of People died from Environmental Heat and Cold Exposure
+22. Neoplasms - No. of People died from Neoplasms
+23. Conflict and Terrorism - No. of People died from Conflict and Terrorism
+24. Diabetes Mellitus - No. of People died from Diabetes Mellitus
+25. Chronic Kidney Disease - No. of People died from Chronic Kidney Disease
+26. Poisonings - No. of People died from Poisoning
+27. Protein-Energy Malnutrition - No. of People died from Protein-Energy Malnutrition
+28. Chronic Respiratory Diseases - No. of People died from Chronic Respiratory Diseases
+29. Cirrhosis and Other Chronic Liver Diseases - No. of People died from Cirrhosis and Other Chronic Liver Diseases
+30. Digestive Diseases - No. of People died from Digestive Diseases
+31. Fire, Heat, and Hot Substances - No. of People died from Fire or Heat or any Hot Substances
+32. Acute Hepatitis - No. of People died from Acute Hepatitis
