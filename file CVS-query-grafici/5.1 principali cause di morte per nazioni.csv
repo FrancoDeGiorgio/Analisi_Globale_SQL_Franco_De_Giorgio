@@ -1,0 +1,610 @@
+"country","cause_of_death","deaths"
+"Afghanistan","cardiovascular_diseases",61995
+"Afghanistan","conflict_and_terrorism",24295
+"Afghanistan","neonatal_disorders",23701
+"Albania","cardiovascular_diseases",12904
+"Albania","neoplasms",4705
+"Albania","alzheimers_disease_and_other_dementias",917
+"Algeria","cardiovascular_diseases",97931
+"Algeria","neoplasms",23816
+"Algeria","road_injuries",11051
+"American Samoa","cardiovascular_diseases",125
+"American Samoa","neoplasms",68
+"American Samoa","diabetes_mellitus",44
+"Andorra","neoplasms",230
+"Andorra","cardiovascular_diseases",169
+"Andorra","chronic_respiratory_diseases",39
+"Angola","cardiovascular_diseases",25724
+"Angola","neonatal_disorders",18189
+"Angola","hiv_aids",16802
+"Antigua and Barbuda","cardiovascular_diseases",200
+"Antigua and Barbuda","neoplasms",138
+"Antigua and Barbuda","diabetes_mellitus",57
+"Argentina","cardiovascular_diseases",101725
+"Argentina","neoplasms",85209
+"Argentina","lower_respiratory_infections",36264
+"Armenia","cardiovascular_diseases",13507
+"Armenia","neoplasms",5834
+"Armenia","digestive_diseases",1720
+"Australia","neoplasms",53700
+"Australia","cardiovascular_diseases",51615
+"Australia","alzheimers_disease_and_other_dementias",11240
+"Austria","cardiovascular_diseases",32998
+"Austria","neoplasms",22258
+"Austria","alzheimers_disease_and_other_dementias",4802
+"Azerbaijan","cardiovascular_diseases",42138
+"Azerbaijan","neoplasms",11913
+"Azerbaijan","digestive_diseases",3945
+"Bahrain","cardiovascular_diseases",1271
+"Bahrain","neoplasms",817
+"Bahrain","diabetes_mellitus",708
+"Bangladesh","cardiovascular_diseases",324764
+"Bangladesh","neoplasms",106147
+"Bangladesh","chronic_respiratory_diseases",70893
+"Barbados","cardiovascular_diseases",905
+"Barbados","neoplasms",825
+"Barbados","diabetes_mellitus",312
+"Belarus","cardiovascular_diseases",75339
+"Belarus","neoplasms",19668
+"Belarus","digestive_diseases",4188
+"Belgium","neoplasms",33892
+"Belgium","cardiovascular_diseases",33627
+"Belgium","chronic_respiratory_diseases",7400
+"Belize","cardiovascular_diseases",464
+"Belize","neoplasms",299
+"Belize","diabetes_mellitus",154
+"Benin","malaria",13264
+"Benin","neonatal_disorders",12609
+"Benin","cardiovascular_diseases",11418
+"Bermuda","cardiovascular_diseases",209
+"Bermuda","neoplasms",179
+"Bermuda","alzheimers_disease_and_other_dementias",32
+"Bhutan","cardiovascular_diseases",1208
+"Bhutan","chronic_respiratory_diseases",571
+"Bhutan","neoplasms",474
+"Bolivia","cardiovascular_diseases",15905
+"Bolivia","neoplasms",14035
+"Bolivia","lower_respiratory_infections",6570
+"Bosnia and Herzegovina","cardiovascular_diseases",18828
+"Bosnia and Herzegovina","neoplasms",9482
+"Bosnia and Herzegovina","diabetes_mellitus",2290
+"Botswana","hiv_aids",5612
+"Botswana","cardiovascular_diseases",3519
+"Botswana","neoplasms",2076
+"Brazil","cardiovascular_diseases",397993
+"Brazil","neoplasms",266014
+"Brazil","lower_respiratory_infections",88641
+"Brunei","neoplasms",528
+"Brunei","cardiovascular_diseases",508
+"Brunei","diabetes_mellitus",171
+"Bulgaria","cardiovascular_diseases",79119
+"Bulgaria","neoplasms",22009
+"Bulgaria","digestive_diseases",4507
+"Burkina Faso","malaria",26305
+"Burkina Faso","lower_respiratory_infections",24392
+"Burkina Faso","cardiovascular_diseases",22151
+"Burundi","cardiovascular_diseases",10804
+"Burundi","diarrheal_diseases",9336
+"Burundi","neonatal_disorders",8794
+"Cambodia","cardiovascular_diseases",30313
+"Cambodia","neoplasms",14553
+"Cambodia","digestive_diseases",12188
+"Cameroon","cardiovascular_diseases",26491
+"Cameroon","hiv_aids",23172
+"Cameroon","malaria",22652
+"Canada","neoplasms",93072
+"Canada","cardiovascular_diseases",82644
+"Canada","chronic_respiratory_diseases",18385
+"Cape Verde","cardiovascular_diseases",1073
+"Cape Verde","neoplasms",717
+"Cape Verde","lower_respiratory_infections",294
+"Central African Republic","tuberculosis",8637
+"Central African Republic","diarrheal_diseases",8431
+"Central African Republic","cardiovascular_diseases",7210
+"Chad","diarrheal_diseases",30372
+"Chad","lower_respiratory_infections",19447
+"Chad","neonatal_disorders",17347
+"Chile","neoplasms",31648
+"Chile","cardiovascular_diseases",30115
+"Chile","digestive_diseases",8426
+"China","cardiovascular_diseases",4584273
+"China","neoplasms",2716551
+"China","chronic_respiratory_diseases",1085273
+"Colombia","cardiovascular_diseases",72629
+"Colombia","neoplasms",49460
+"Colombia","chronic_respiratory_diseases",17772
+"Comoros","cardiovascular_diseases",1143
+"Comoros","neoplasms",544
+"Comoros","lower_respiratory_infections",450
+"Cook Islands","cardiovascular_diseases",58
+"Cook Islands","neoplasms",32
+"Cook Islands","diabetes_mellitus",27
+"Costa Rica","cardiovascular_diseases",6664
+"Costa Rica","neoplasms",6049
+"Costa Rica","digestive_diseases",1776
+"Croatia","cardiovascular_diseases",24721
+"Croatia","neoplasms",14024
+"Croatia","digestive_diseases",2234
+"Cuba","cardiovascular_diseases",39755
+"Cuba","neoplasms",27785
+"Cuba","lower_respiratory_infections",7125
+"Cyprus","cardiovascular_diseases",3112
+"Cyprus","neoplasms",2291
+"Cyprus","chronic_respiratory_diseases",541
+"Czech Republic","cardiovascular_diseases",51294
+"Czech Republic","neoplasms",30718
+"Czech Republic","alzheimers_disease_and_other_dementias",5121
+"Democratic Republic of the Congo","cardiovascular_diseases",89906
+"Democratic Republic of the Congo","malaria",57160
+"Democratic Republic of the Congo","tuberculosis",46145
+"Denmark","neoplasms",18488
+"Denmark","cardiovascular_diseases",15330
+"Denmark","chronic_respiratory_diseases",4572
+"Djibouti","cardiovascular_diseases",1240
+"Djibouti","hiv_aids",903
+"Djibouti","neoplasms",750
+"Dominica","cardiovascular_diseases",242
+"Dominica","neoplasms",182
+"Dominica","diabetes_mellitus",57
+"Dominican Republic","cardiovascular_diseases",27140
+"Dominican Republic","neoplasms",10808
+"Dominican Republic","digestive_diseases",3915
+"Ecuador","cardiovascular_diseases",21464
+"Ecuador","neoplasms",17627
+"Ecuador","chronic_kidney_disease",6914
+"Egypt","cardiovascular_diseases",263873
+"Egypt","digestive_diseases",69216
+"Egypt","cirrhosis_and_other_chronic_liver_diseases",62635
+"El Salvador","cardiovascular_diseases",9695
+"El Salvador","neoplasms",5905
+"El Salvador","chronic_kidney_disease",4083
+"Equatorial Guinea","hiv_aids",2118
+"Equatorial Guinea","cardiovascular_diseases",960
+"Equatorial Guinea","malaria",768
+"Eritrea","cardiovascular_diseases",6660
+"Eritrea","tuberculosis",4674
+"Eritrea","lower_respiratory_infections",4429
+"Estonia","cardiovascular_diseases",8201
+"Estonia","neoplasms",3832
+"Estonia","alzheimers_disease_and_other_dementias",757
+"Eswatini","hiv_aids",3321
+"Eswatini","cardiovascular_diseases",1519
+"Eswatini","neoplasms",979
+"Ethiopia","neonatal_disorders",77436
+"Ethiopia","cardiovascular_diseases",76975
+"Ethiopia","diarrheal_diseases",50773
+"Fiji","cardiovascular_diseases",2642
+"Fiji","diabetes_mellitus",1725
+"Fiji","neoplasms",810
+"Finland","cardiovascular_diseases",25383
+"Finland","neoplasms",14495
+"Finland","alzheimers_disease_and_other_dementias",3280
+"France","neoplasms",197313
+"France","cardiovascular_diseases",166496
+"France","alzheimers_disease_and_other_dementias",46008
+"Gabon","cardiovascular_diseases",2541
+"Gabon","neoplasms",1436
+"Gabon","hiv_aids",1115
+"Gambia","cardiovascular_diseases",2603
+"Gambia","lower_respiratory_infections",1223
+"Gambia","neonatal_disorders",1143
+"Georgia","cardiovascular_diseases",29709
+"Georgia","neoplasms",8327
+"Georgia","digestive_diseases",2139
+"Germany","cardiovascular_diseases",364285
+"Germany","neoplasms",274088
+"Germany","alzheimers_disease_and_other_dementias",49557
+"Ghana","cardiovascular_diseases",39650
+"Ghana","malaria",21597
+"Ghana","neoplasms",18509
+"Greece","cardiovascular_diseases",55921
+"Greece","neoplasms",35234
+"Greece","alzheimers_disease_and_other_dementias",6996
+"Grenada","cardiovascular_diseases",263
+"Grenada","neoplasms",188
+"Grenada","diabetes_mellitus",75
+"Guam","cardiovascular_diseases",474
+"Guam","neoplasms",207
+"Guam","chronic_kidney_disease",56
+"Guatemala","cardiovascular_diseases",15882
+"Guatemala","neoplasms",12605
+"Guatemala","lower_respiratory_infections",9875
+"Guinea","cardiovascular_diseases",14547
+"Guinea","lower_respiratory_infections",13549
+"Guinea","malaria",11336
+"Guinea-Bissau","cardiovascular_diseases",2214
+"Guinea-Bissau","neonatal_disorders",1549
+"Guinea-Bissau","diarrheal_diseases",1218
+"Guyana","cardiovascular_diseases",2430
+"Guyana","neoplasms",780
+"Guyana","diabetes_mellitus",567
+"Haiti","cardiovascular_diseases",26468
+"Haiti","neoplasms",10517
+"Haiti","lower_respiratory_infections",6323
+"Honduras","cardiovascular_diseases",15015
+"Honduras","neoplasms",7743
+"Honduras","digestive_diseases",5662
+"Hungary","cardiovascular_diseases",61818
+"Hungary","neoplasms",34293
+"Hungary","digestive_diseases",6413
+"Iceland","cardiovascular_diseases",724
+"Iceland","neoplasms",654
+"Iceland","alzheimers_disease_and_other_dementias",151
+"India","cardiovascular_diseases",2574410
+"India","chronic_respiratory_diseases",1168381
+"India","neoplasms",932587
+"Indonesia","cardiovascular_diseases",651481
+"Indonesia","neoplasms",229524
+"Indonesia","digestive_diseases",126348
+"Iran","cardiovascular_diseases",173601
+"Iran","neoplasms",66792
+"Iran","road_injuries",21122
+"Iraq","cardiovascular_diseases",79952
+"Iraq","neoplasms",24413
+"Iraq","diabetes_mellitus",9257
+"Israel","neoplasms",14627
+"Israel","cardiovascular_diseases",12393
+"Israel","alzheimers_disease_and_other_dementias",2777
+"Italy","cardiovascular_diseases",236507
+"Italy","neoplasms",192052
+"Italy","alzheimers_disease_and_other_dementias",48763
+"Ivory Coast","malaria",29398
+"Ivory Coast","neonatal_disorders",23030
+"Ivory Coast","cardiovascular_diseases",22376
+"Jamaica","cardiovascular_diseases",6457
+"Jamaica","neoplasms",4338
+"Jamaica","diabetes_mellitus",2399
+"Japan","neoplasms",442474
+"Japan","cardiovascular_diseases",372483
+"Japan","alzheimers_disease_and_other_dementias",164874
+"Jordan","cardiovascular_diseases",11798
+"Jordan","neoplasms",5643
+"Jordan","diabetes_mellitus",2053
+"Kazakhstan","cardiovascular_diseases",65391
+"Kazakhstan","neoplasms",21073
+"Kazakhstan","chronic_respiratory_diseases",9772
+"Kenya","hiv_aids",51135
+"Kenya","cardiovascular_diseases",40611
+"Kenya","neoplasms",23292
+"Kiribati","cardiovascular_diseases",349
+"Kiribati","diabetes_mellitus",136
+"Kiribati","neoplasms",128
+"Kuwait","cardiovascular_diseases",4119
+"Kuwait","neoplasms",1653
+"Kuwait","lower_respiratory_infections",668
+"Kyrgyzstan","cardiovascular_diseases",17482
+"Kyrgyzstan","neoplasms",4150
+"Kyrgyzstan","digestive_diseases",2482
+"Laos","cardiovascular_diseases",13523
+"Laos","neoplasms",4975
+"Laos","lower_respiratory_infections",3392
+"Latvia","cardiovascular_diseases",15779
+"Latvia","neoplasms",5601
+"Latvia","alzheimers_disease_and_other_dementias",1031
+"Lebanon","cardiovascular_diseases",16329
+"Lebanon","neoplasms",7493
+"Lebanon","alzheimers_disease_and_other_dementias",1255
+"Lesotho","hiv_aids",10793
+"Lesotho","cardiovascular_diseases",4028
+"Lesotho","tuberculosis",2598
+"Liberia","malaria",4587
+"Liberia","cardiovascular_diseases",4299
+"Liberia","diarrheal_diseases",2373
+"Libya","cardiovascular_diseases",12747
+"Libya","neoplasms",5435
+"Libya","road_injuries",2155
+"Lithuania","cardiovascular_diseases",21301
+"Lithuania","neoplasms",7870
+"Lithuania","digestive_diseases",1882
+"Luxembourg","cardiovascular_diseases",1332
+"Luxembourg","neoplasms",1295
+"Luxembourg","alzheimers_disease_and_other_dementias",241
+"Madagascar","cardiovascular_diseases",35397
+"Madagascar","diarrheal_diseases",18314
+"Madagascar","lower_respiratory_infections",13674
+"Malawi","cardiovascular_diseases",15650
+"Malawi","hiv_aids",14227
+"Malawi","neonatal_disorders",10220
+"Malaysia","cardiovascular_diseases",58824
+"Malaysia","neoplasms",31294
+"Malaysia","lower_respiratory_infections",21711
+"Maldives","cardiovascular_diseases",522
+"Maldives","neoplasms",214
+"Maldives","chronic_respiratory_diseases",123
+"Mali","neonatal_disorders",32006
+"Mali","cardiovascular_diseases",19519
+"Mali","malaria",18000
+"Malta","cardiovascular_diseases",1491
+"Malta","neoplasms",1002
+"Malta","alzheimers_disease_and_other_dementias",220
+"Marshall Islands","cardiovascular_diseases",156
+"Marshall Islands","neoplasms",54
+"Marshall Islands","diabetes_mellitus",36
+"Mauritania","cardiovascular_diseases",3952
+"Mauritania","neoplasms",2064
+"Mauritania","malaria",1997
+"Mauritius","cardiovascular_diseases",3309
+"Mauritius","diabetes_mellitus",1899
+"Mauritius","neoplasms",1517
+"Mexico","cardiovascular_diseases",167535
+"Mexico","neoplasms",106421
+"Mexico","diabetes_mellitus",73838
+"Micronesia","cardiovascular_diseases",331
+"Micronesia","neoplasms",112
+"Micronesia","diabetes_mellitus",109
+"Moldova","cardiovascular_diseases",23438
+"Moldova","neoplasms",6245
+"Moldova","digestive_diseases",3513
+"Monaco","neoplasms",225
+"Monaco","cardiovascular_diseases",161
+"Monaco","alzheimers_disease_and_other_dementias",28
+"Mongolia","cardiovascular_diseases",9806
+"Mongolia","neoplasms",5961
+"Mongolia","digestive_diseases",2185
+"Montenegro","cardiovascular_diseases",3943
+"Montenegro","neoplasms",1644
+"Montenegro","alzheimers_disease_and_other_dementias",185
+"Morocco","cardiovascular_diseases",117034
+"Morocco","neoplasms",27967
+"Morocco","chronic_respiratory_diseases",9373
+"Mozambique","hiv_aids",66304
+"Mozambique","cardiovascular_diseases",31692
+"Mozambique","neonatal_disorders",24317
+"Myanmar","cardiovascular_diseases",138139
+"Myanmar","neoplasms",52674
+"Myanmar","chronic_respiratory_diseases",43284
+"Namibia","hiv_aids",3772
+"Namibia","cardiovascular_diseases",3747
+"Namibia","neoplasms",1600
+"Nauru","cardiovascular_diseases",23
+"Nauru","neoplasms",8
+"Nauru","diabetes_mellitus",6
+"Nepal","cardiovascular_diseases",46501
+"Nepal","chronic_respiratory_diseases",40800
+"Nepal","neoplasms",21609
+"Netherlands","neoplasms",56513
+"Netherlands","cardiovascular_diseases",42569
+"Netherlands","chronic_respiratory_diseases",10766
+"New Zealand","cardiovascular_diseases",11948
+"New Zealand","neoplasms",10584
+"New Zealand","chronic_respiratory_diseases",2396
+"Nicaragua","cardiovascular_diseases",8202
+"Nicaragua","neoplasms",4429
+"Nicaragua","chronic_kidney_disease",3475
+"Niger","diarrheal_diseases",28694
+"Niger","malaria",23822
+"Niger","lower_respiratory_infections",23642
+"Nigeria","neonatal_disorders",195397
+"Nigeria","malaria",191106
+"Nigeria","diarrheal_diseases",181138
+"Niue","cardiovascular_diseases",8
+"Niue","neoplasms",3
+"Niue","diabetes_mellitus",3
+"North Korea","cardiovascular_diseases",102586
+"North Korea","neoplasms",40841
+"North Korea","chronic_respiratory_diseases",31704
+"North Macedonia","cardiovascular_diseases",14023
+"North Macedonia","neoplasms",5431
+"North Macedonia","diabetes_mellitus",1064
+"Northern Mariana Islands","cardiovascular_diseases",116
+"Northern Mariana Islands","neoplasms",80
+"Northern Mariana Islands","diabetes_mellitus",27
+"Norway","cardiovascular_diseases",12724
+"Norway","neoplasms",12675
+"Norway","chronic_respiratory_diseases",2771
+"Oman","cardiovascular_diseases",4998
+"Oman","road_injuries",2053
+"Oman","neoplasms",1368
+"Pakistan","cardiovascular_diseases",341108
+"Pakistan","neonatal_disorders",249785
+"Pakistan","neoplasms",179773
+"Palau","cardiovascular_diseases",65
+"Palau","neoplasms",36
+"Palau","diabetes_mellitus",23
+"Palestinian National Authority","cardiovascular_diseases",6710
+"Palestinian National Authority","neoplasms",2907
+"Palestinian National Authority","diabetes_mellitus",1293
+"Panama","cardiovascular_diseases",5318
+"Panama","neoplasms",3984
+"Panama","diabetes_mellitus",1217
+"Papua New Guinea","cardiovascular_diseases",15540
+"Papua New Guinea","chronic_respiratory_diseases",7154
+"Papua New Guinea","lower_respiratory_infections",6311
+"Paraguay","cardiovascular_diseases",9912
+"Paraguay","neoplasms",6141
+"Paraguay","diabetes_mellitus",2447
+"Peru","neoplasms",33395
+"Peru","cardiovascular_diseases",29215
+"Peru","lower_respiratory_infections",18179
+"Philippines","cardiovascular_diseases",204311
+"Philippines","neoplasms",81321
+"Philippines","lower_respiratory_infections",58413
+"Poland","cardiovascular_diseases",174736
+"Poland","neoplasms",122080
+"Poland","alzheimers_disease_and_other_dementias",18469
+"Portugal","cardiovascular_diseases",37353
+"Portugal","neoplasms",31651
+"Portugal","lower_respiratory_infections",8279
+"Puerto Rico","cardiovascular_diseases",8823
+"Puerto Rico","neoplasms",6936
+"Puerto Rico","diabetes_mellitus",3373
+"Qatar","cardiovascular_diseases",1121
+"Qatar","neoplasms",831
+"Qatar","road_injuries",737
+"Republic of Ireland","neoplasms",10384
+"Republic of Ireland","cardiovascular_diseases",10347
+"Republic of Ireland","chronic_respiratory_diseases",2548
+"Republic of the Congo","cardiovascular_diseases",7096
+"Republic of the Congo","hiv_aids",4275
+"Republic of the Congo","neoplasms",3363
+"Romania","cardiovascular_diseases",150427
+"Romania","neoplasms",52590
+"Romania","digestive_diseases",14626
+"Russia","cardiovascular_diseases",1004931
+"Russia","neoplasms",296822
+"Russia","digestive_diseases",90887
+"Rwanda","cardiovascular_diseases",11826
+"Rwanda","neoplasms",7143
+"Rwanda","lower_respiratory_infections",5641
+"Saint Kitts and Nevis","cardiovascular_diseases",157
+"Saint Kitts and Nevis","neoplasms",99
+"Saint Kitts and Nevis","diabetes_mellitus",33
+"Saint Lucia","cardiovascular_diseases",446
+"Saint Lucia","neoplasms",304
+"Saint Lucia","diabetes_mellitus",130
+"Saint Vincent and the Grenadines","cardiovascular_diseases",355
+"Saint Vincent and the Grenadines","neoplasms",208
+"Saint Vincent and the Grenadines","diabetes_mellitus",107
+"Samoa","cardiovascular_diseases",539
+"Samoa","neoplasms",155
+"Samoa","diabetes_mellitus",124
+"San Marino","neoplasms",117
+"San Marino","cardiovascular_diseases",98
+"San Marino","alzheimers_disease_and_other_dementias",20
+"Sao Tome and Principe","cardiovascular_diseases",273
+"Sao Tome and Principe","neoplasms",145
+"Sao Tome and Principe","lower_respiratory_infections",109
+"Saudi Arabia","cardiovascular_diseases",45837
+"Saudi Arabia","road_injuries",21316
+"Saudi Arabia","neoplasms",13104
+"Senegal","cardiovascular_diseases",15981
+"Senegal","neonatal_disorders",9388
+"Senegal","neoplasms",8211
+"Serbia","cardiovascular_diseases",63769
+"Serbia","neoplasms",28444
+"Serbia","digestive_diseases",4245
+"Seychelles","cardiovascular_diseases",242
+"Seychelles","neoplasms",181
+"Seychelles","lower_respiratory_infections",77
+"Sierra Leone","malaria",11717
+"Sierra Leone","cardiovascular_diseases",9009
+"Sierra Leone","lower_respiratory_infections",7460
+"Singapore","neoplasms",7001
+"Singapore","cardiovascular_diseases",6810
+"Singapore","lower_respiratory_infections",3471
+"Slovakia","cardiovascular_diseases",26796
+"Slovakia","neoplasms",13901
+"Slovakia","digestive_diseases",2989
+"Slovenia","cardiovascular_diseases",7797
+"Slovenia","neoplasms",6336
+"Slovenia","alzheimers_disease_and_other_dementias",1337
+"Solomon Islands","cardiovascular_diseases",2285
+"Solomon Islands","neoplasms",650
+"Solomon Islands","lower_respiratory_infections",479
+"Somalia","lower_respiratory_infections",20751
+"Somalia","tuberculosis",20221
+"Somalia","neonatal_disorders",19725
+"South Africa","hiv_aids",143851
+"South Africa","cardiovascular_diseases",82661
+"South Africa","neoplasms",54803
+"South Korea","neoplasms",104176
+"South Korea","cardiovascular_diseases",77481
+"South Korea","alzheimers_disease_and_other_dementias",18451
+"South Sudan","neonatal_disorders",8935
+"South Sudan","lower_respiratory_infections",7714
+"South Sudan","cardiovascular_diseases",7114
+"Spain","cardiovascular_diseases",131493
+"Spain","neoplasms",125835
+"Spain","chronic_respiratory_diseases",36560
+"Sri Lanka","cardiovascular_diseases",46577
+"Sri Lanka","neoplasms",18724
+"Sri Lanka","chronic_respiratory_diseases",13597
+"Sudan","cardiovascular_diseases",74371
+"Sudan","neonatal_disorders",21418
+"Sudan","neoplasms",17100
+"Suriname","cardiovascular_diseases",1423
+"Suriname","neoplasms",716
+"Suriname","diabetes_mellitus",267
+"Sweden","cardiovascular_diseases",36087
+"Sweden","neoplasms",26480
+"Sweden","alzheimers_disease_and_other_dementias",5637
+"Switzerland","cardiovascular_diseases",23969
+"Switzerland","neoplasms",20248
+"Switzerland","alzheimers_disease_and_other_dementias",5138
+"Syria","cardiovascular_diseases",45682
+"Syria","neoplasms",8784
+"Syria","conflict_and_terrorism",6900
+"Taiwan","neoplasms",56953
+"Taiwan","cardiovascular_diseases",41061
+"Taiwan","lower_respiratory_infections",13067
+"Tajikistan","cardiovascular_diseases",21856
+"Tajikistan","neoplasms",5368
+"Tajikistan","lower_respiratory_infections",3279
+"Tanzania","cardiovascular_diseases",54489
+"Tanzania","neonatal_disorders",39594
+"Tanzania","lower_respiratory_infections",32990
+"Thailand","cardiovascular_diseases",115830
+"Thailand","neoplasms",115544
+"Thailand","digestive_diseases",32635
+"The Bahamas","cardiovascular_diseases",869
+"The Bahamas","neoplasms",580
+"The Bahamas","diabetes_mellitus",146
+"Timor","cardiovascular_diseases",2459
+"Timor","neoplasms",824
+"Timor","lower_respiratory_infections",601
+"Togo","cardiovascular_diseases",8361
+"Togo","diarrheal_diseases",5848
+"Togo","malaria",5436
+"Tokelau","cardiovascular_diseases",4
+"Tokelau","neoplasms",2
+"Tokelau","diabetes_mellitus",1
+"Tonga","cardiovascular_diseases",178
+"Tonga","neoplasms",127
+"Tonga","diabetes_mellitus",82
+"Trinidad and Tobago","cardiovascular_diseases",4016
+"Trinidad and Tobago","neoplasms",2017
+"Trinidad and Tobago","diabetes_mellitus",1833
+"Tunisia","cardiovascular_diseases",35007
+"Tunisia","neoplasms",10110
+"Tunisia","chronic_respiratory_diseases",2649
+"Turkey","cardiovascular_diseases",176663
+"Turkey","neoplasms",104816
+"Turkey","chronic_respiratory_diseases",32981
+"Turkmenistan","cardiovascular_diseases",18323
+"Turkmenistan","neoplasms",3636
+"Turkmenistan","digestive_diseases",2749
+"Tuvalu","cardiovascular_diseases",42
+"Tuvalu","neoplasms",14
+"Tuvalu","diabetes_mellitus",11
+"Uganda","neonatal_disorders",30955
+"Uganda","cardiovascular_diseases",28149
+"Uganda","malaria",22587
+"Ukraine","cardiovascular_diseases",449376
+"Ukraine","neoplasms",99218
+"Ukraine","digestive_diseases",30240
+"United Arab Emirates","cardiovascular_diseases",8621
+"United Arab Emirates","neoplasms",5473
+"United Arab Emirates","road_injuries",3833
+"United Kingdom","neoplasms",195999
+"United Kingdom","cardiovascular_diseases",188113
+"United Kingdom","chronic_respiratory_diseases",51879
+"United States","cardiovascular_diseases",957455
+"United States","neoplasms",773895
+"United States","chronic_respiratory_diseases",224988
+"United States Virgin Islands","cardiovascular_diseases",501
+"United States Virgin Islands","neoplasms",330
+"United States Virgin Islands","diabetes_mellitus",80
+"Uruguay","neoplasms",10084
+"Uruguay","cardiovascular_diseases",10003
+"Uruguay","chronic_respiratory_diseases",2155
+"Uzbekistan","cardiovascular_diseases",107394
+"Uzbekistan","neoplasms",22338
+"Uzbekistan","digestive_diseases",15019
+"Vanuatu","cardiovascular_diseases",869
+"Vanuatu","neoplasms",225
+"Vanuatu","chronic_respiratory_diseases",172
+"Venezuela","cardiovascular_diseases",61510
+"Venezuela","neoplasms",34771
+"Venezuela","interpersonal_violence",10944
+"Vietnam","cardiovascular_diseases",240161
+"Vietnam","neoplasms",112564
+"Vietnam","chronic_respiratory_diseases",36229
+"Yemen","cardiovascular_diseases",55752
+"Yemen","neonatal_disorders",18982
+"Yemen","conflict_and_terrorism",13402
+"Zambia","hiv_aids",22540
+"Zambia","cardiovascular_diseases",18157
+"Zambia","neonatal_disorders",9851
+"Zimbabwe","hiv_aids",20722
+"Zimbabwe","cardiovascular_diseases",17810
+"Zimbabwe","lower_respiratory_infections",12897
