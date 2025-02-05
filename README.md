@@ -7,10 +7,10 @@ Identificare correlazioni e tendenze tra fattori ambientali, economici e indicat
 Presentare i risultati in modo chiaro e visivo attraverso una presentazione, supportando riflessioni e decisioni informate.
 
 Contenuto:
-Diagramma ER dei tre database analizzati 
-File SQL contenete le query realizzate 
-File CSV per ogni singola query 
+Diagramma ER dei tre database analizzati - 
+File SQL contenete le query realizzate -
+File CSV per ogni singola query -
 JPEG dei grafici realizzati per ogni query 
-File “Fonti” contenete i link ai dataset utilizzati 
-File KEY relativo ad ogni dataset contenete indicazioni su ogni attributo
+File “Fonti” contenete i link ai dataset utilizzati -
+File KEY relativo ad ogni dataset contenete indicazioni su ogni attributo -
 Cartelle contenenti i dataset originali puliti e revisionati
