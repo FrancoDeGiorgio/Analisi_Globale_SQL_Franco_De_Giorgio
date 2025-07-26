@@ -14,3 +14,13 @@ Contenuto:
 - File “Fonti” contenete i link ai dataset utilizzati 
 - File KEY relativo ad ogni dataset contenete indicazioni su ogni attributo 
 - Cartelle contenenti i dataset originali puliti e revisionati
+
+---
+
+## 👨‍💻 Autore:
+
+## ***Franco De Giorgio***  
+
+📅 **Data di completamento:** Maggio 2025
+
+---
